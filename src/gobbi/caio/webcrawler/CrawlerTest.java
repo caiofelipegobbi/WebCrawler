@@ -1,4 +1,4 @@
-package group.fishtech.webcrawler;
+package gobbi.caio.webcrawler;
 
 public class CrawlerTest {
 	
